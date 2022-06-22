@@ -1,7 +1,11 @@
-# Getting Started with Create React App
+# OlaDeMar Backend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Abstract
+First version of the OlaDeMar ecommerce backend.
 
+node version: 14.13.1
+
+npm version: 6.14.8
 ## Available Scripts
 
 In the project directory, you can run:
